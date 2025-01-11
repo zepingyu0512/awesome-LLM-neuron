@@ -38,6 +38,9 @@ Conference paper recommendation: please release a issue or contact [me](https://
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
    - \[Anthropic\] \[2022.9\]
 
+- [Neuron-level Interpretation of Deep NLP Models: A Survey](https://arxiv.org/pdf/2108.13138)
+   - \[survey\] \[2022.8\]
+
 - [Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space](https://arxiv.org/pdf/2203.14680.pdf)
    - \[EMNLP 2022\] \[2022.3\] 
 
