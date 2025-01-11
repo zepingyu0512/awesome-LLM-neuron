@@ -39,7 +39,10 @@ Conference paper recommendation: please release a issue or contact [me](https://
    - \[TMLR 2024\] \[2023.5\] 
 
 - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
-   - \[OpenAI\] \[2023.5\] 
+   - \[OpenAI\] \[2023.5\]
+
+- [Finding Alignments Between Interpretable Causal Variables and Distributed Neural Representations](https://arxiv.org/pdf/2303.02536)
+   - \[arxiv\] \[2023.5\] 
 
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
    - \[Anthropic\] \[2022.9\]
