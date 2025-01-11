@@ -32,9 +32,6 @@ Conference paper recommendation: please release a issue or contact [me](https://
 - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
    - \[OpenAI\] \[2023.5\] 
 
-- [Polysemanticity and Capacity in Neural Networks](https://arxiv.org/pdf/2210.01892.pdf)
-   - \[2022.10\]
-
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
    - \[Anthropic\] \[2022.9\]
 
