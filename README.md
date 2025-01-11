@@ -40,6 +40,9 @@ Conference paper recommendation: please release a issue or contact [me](https://
 
 - [Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space](https://arxiv.org/pdf/2203.14680.pdf)
    - \[EMNLP 2022\] \[2022.3\] 
-     
+
+- [Knowledge Neurons in Pretrained Transformers](https://arxiv.org/pdf/2104.08696)
+   - \[ACL 2021\] \[2021.4\]
+
 - [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/pdf/2012.14913.pdf)
    - \[EMNLP 2021\] \[2020.12\] 
