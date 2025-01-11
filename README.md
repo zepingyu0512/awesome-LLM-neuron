@@ -8,6 +8,9 @@ Conference paper recommendation: please release a issue or contact [me](https://
 
 ## Papers
 
+- [Scaling Automatic Neuron Description](https://transluce.org/neuron-descriptions)
+   - \[Transluce AI\] \[2024.10\]
+
 - [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
    - \[EMNLP 2024\] \[2024.9\]
 
