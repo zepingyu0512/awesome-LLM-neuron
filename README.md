@@ -11,6 +11,9 @@ Conference paper recommendation: please release a issue or contact [me](https://
 - [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
    - \[EMNLP 2024\] \[2024.9\]
 
+- [An Investigation of Neuron Activation as a Unified Lens to Explain Chain-of-Thought Eliciting Arithmetic Reasoning of LLMs](https://arxiv.org/pdf/2406.12288)
+   - \[ACL 2024\] \[2024.6\]
+
 - [Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/)
    - \[EMNLP 2024\] \[2024.6\]
 
