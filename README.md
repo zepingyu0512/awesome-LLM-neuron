@@ -2,7 +2,9 @@
 
 This list focuses on neuron-level techniques in LLMs. [Another list](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism.git) focuses on understanding the internal mechanism of LLMs.
 
-Paper/preprint/blog recommendation: please release a issue or contact [me](https://zepingyu0512.github.io/).
+Definition of neurons: A column/row in the matrix in attention or FFN layers. Please refer to "Transformer Feed-Forward Layers Are Key-Value Memories" for FFN neurons, and "Neuron-Level Knowledge Attribution in Large Language Models" for attention neurons.
+
+Conference paper recommendation: please release a issue or contact [me](https://zepingyu0512.github.io/).
 
 ## Papers
 
