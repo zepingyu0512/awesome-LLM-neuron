@@ -23,6 +23,9 @@ Conference paper recommendation: please release a issue or contact [me](https://
 - [Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/)
    - \[EMNLP 2024\] \[2024.6\]
 
+- [Wasserstein Distances, Neuronal Entanglement, and Sparsity](https://arxiv.org/pdf/2405.15756)
+   - \[ICLR 2025\] \[2024.5\]
+
 - [Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models](https://arxiv.org/pdf/2402.16438)
    - \[ACL 2024\] \[2024.2\]
 
