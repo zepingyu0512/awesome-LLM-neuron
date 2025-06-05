@@ -8,6 +8,15 @@ Conference paper recommendation: please release a issue or contact [me](https://
 
 ## Papers
 
+- [Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/pdf/2505.16703)
+   - \[arxiv\] \[2025.5\]
+
+- [Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models](https://arxiv.org/pdf/2502.10835)
+   - \[arxiv\] \[2025.2\]
+   
+- [Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing](https://arxiv.org/pdf/2501.14457)
+   - \[arxiv\] \[2025.1\]
+
 - [Scaling Automatic Neuron Description](https://transluce.org/neuron-descriptions)
    - \[Transluce AI\] \[2024.10\]
 
