@@ -38,7 +38,7 @@ Conference paper recommendation: please release a issue or contact [me](https://
 - [Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models](https://arxiv.org/pdf/2402.16438)
    - \[ACL 2024\] \[2024.2\]
 
-- [What does the Knowledge Neuron Thesis Have to do with Knowledge?](https://openreview.net/pdf?id=2HJRwwbV3G)
+- [What does the Knowledge Neuron Thesis Have to do with Knowledge?](https://arxiv.org/pdf/2405.02421)
    - \[ICLR 2024\] \[2023.11\]
 
 - [Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level](https://www.lesswrong.com/posts/iGuwZTHWb6DFY3sKB/fact-finding-attempting-to-reverse-engineer-factual-recall)
