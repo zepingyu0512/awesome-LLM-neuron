@@ -11,6 +11,9 @@ Conference paper recommendation: please release a issue or contact [me](https://
 - [Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/pdf/2505.16703)
    - \[arxiv\] \[2025.5\]
 
+- [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.15543)
+   - \[NeurIPS 2025\] \[2025.2\]
+
 - [Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models](https://arxiv.org/pdf/2502.10835)
    - \[arxiv\] \[2025.2\]
    
